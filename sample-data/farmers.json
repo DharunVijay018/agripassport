@@ -1,0 +1,50 @@
+[
+  {
+    "farmerId": "FARM-TN-101",
+    "name": "Murugan Palanisamy",
+    "fpoName": "Krishnagiri Agri Horticultural FPO",
+    "village": "Rayakottai",
+    "district": "Krishnagiri",
+    "state": "Tamil Nadu",
+    "gpsCoordinates": "12.5266, 78.2148",
+    "organicCertified": true,
+    "contactPlaceholder": "+91-98765-XXXX1",
+    "isFictionalDemo": true
+  },
+  {
+    "farmerId": "FARM-TN-102",
+    "name": "Selvi Thangaraj",
+    "fpoName": "Cauvery Delta Organic Producers Society",
+    "village": "Musiri",
+    "district": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "gpsCoordinates": "10.9412, 78.4419",
+    "organicCertified": true,
+    "contactPlaceholder": "+91-98765-XXXX2",
+    "isFictionalDemo": true
+  },
+  {
+    "farmerId": "FARM-TN-103",
+    "name": "Karthik Sundaram",
+    "fpoName": "Theni Cardamom & Banana Growers Consortium",
+    "village": "Chinnamanur",
+    "district": "Theni",
+    "state": "Tamil Nadu",
+    "gpsCoordinates": "9.8398, 77.3821",
+    "organicCertified": false,
+    "contactPlaceholder": "+91-98765-XXXX3",
+    "isFictionalDemo": true
+  },
+  {
+    "farmerId": "FARM-TN-104",
+    "name": "Rajeshwari Manickam",
+    "fpoName": "Salem Mango Growers Association",
+    "village": "Ayothiyapattinam",
+    "district": "Salem",
+    "state": "Tamil Nadu",
+    "gpsCoordinates": "11.6643, 78.1460",
+    "organicCertified": true,
+    "contactPlaceholder": "+91-98765-XXXX4",
+    "isFictionalDemo": true
+  }
+]

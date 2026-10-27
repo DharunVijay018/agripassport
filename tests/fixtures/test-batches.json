@@ -1,0 +1,21 @@
+[
+  {
+    "batchId": "TEST-BATCH-001",
+    "farmerId": "FARM-TEST-01",
+    "farmerName": "Test Farmer",
+    "cropName": "Test Tomatoes",
+    "variety": "Roma Test",
+    "harvestDate": "2026-10-27T06:00:00Z",
+    "farmLocation": "Test Farm, Chennai",
+    "gpsCoordinates": "13.0827, 80.2707",
+    "quantity": 100,
+    "unit": "kg",
+    "grade": "Grade A",
+    "cultivationMethod": "Organic Test",
+    "storageConditions": "12°C",
+    "initialFreshnessScore": 95.0,
+    "estimatedShelfLifeDays": 7,
+    "currentStatus": "HARVESTED",
+    "createdAt": "2026-10-27T06:30:00Z"
+  }
+]
